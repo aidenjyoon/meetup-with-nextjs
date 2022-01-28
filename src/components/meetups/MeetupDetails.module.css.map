@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,UAAU,EAAE,MAAM;CACnB;;AAED,AAAA,OAAO,CAAC,GAAG,CAAC;EACV,KAAK,EAAE,IAAI;CACZ",
+    "sources": [
+        "MeetupDetails.module.scss"
+    ],
+    "names": [],
+    "file": "MeetupDetails.module.css"
+}
